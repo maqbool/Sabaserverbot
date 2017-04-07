@@ -10,19 +10,19 @@ html{
 }
 @font-face {
 
-    font-family: AwiFont;
+    font-family: moinFont;
 
-    src: url(awi.ttf);
+    src: url(moin.ttf);
 
 }
 #footer{
-    font-family:AwiFont;
+    font-family:MoinFont;
 }
 #header{
-    font-family:AwiFont;
+    font-family:MoinFont;
 }
 .button1 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color:#930000;
     border: none;
     border-radius: 30px;
@@ -39,13 +39,13 @@ html{
 }
 
 .button1:hover{
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color: #420101;
     color: #fff;
     border: 1px solid #000000;
 }
 .button2 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color:#00CD06;
      border: none;
     border-radius: 30px;
@@ -62,13 +62,13 @@ html{
 }
 
 .button2:hover {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color: #087D00;
     color: #fff;
     border: 1px solid #000000;
 }
 .button3 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color:#0003CF;
      border: none;
     border-radius: 30px;
@@ -85,13 +85,13 @@ html{
 }
 
 .button3:hover {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color: #01015E;
     color: #fff;
     border: 1px solid #000000;;
 }
 .button4 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color:#7B00FF;
      border: none;
     border-radius: 30px;
@@ -107,12 +107,12 @@ html{
 }
 
 .button4:hover {
-    font-family:AwiFont;
+    font-family:MoinFont;
    background-color: #CC0000;
     border: 1px solid #000000;
 }
 .button5 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color:#03bf55;
      border: none;
     border-radius: 30px;
@@ -129,13 +129,13 @@ html{
 }
 
 .button5:hover {
-    font-family:AwiFont;
+    font-family:MoinFont;
    background-color: #12db04;
     color: #fff;
     border: 1px solid #000000; 
 }
 .button6 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color:#FFF000;
      border: none;
     border-radius: 30px;
@@ -151,13 +151,13 @@ html{
 }
 
 .button6:hover {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color: #FF0000;
     color: #fff;
     border: 1px solid #000000;
 }
 .button7 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     margin-top: 400px;
     background-color:#1f0289;
      border: none;
@@ -174,13 +174,13 @@ html{
 }
 
 .button7:hover {
-    font-family:AwiFont;
+    font-family:MoinFont;
     background-color: #04e3f7;
     color: #fff;
     border: 1px solid #000000; 
 }
 .button8 {
-    font-family:AwiFont;
+    font-family:MoinFont;
     margin-top: 400px;
     background-color:#e54004;
      border: none;
